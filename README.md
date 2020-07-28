@@ -1,16 +1,6 @@
 # flight_ticket_ui
 
-A new Flutter project.
+FLight Ticket Ui in FLutter Thanks(Techie Blossom).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Working Video:
+![flight_ui](https://user-images.githubusercontent.com/58309881/88638377-dc8b9200-d0d4-11ea-81af-ffda428a27d6.gif)
